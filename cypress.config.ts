@@ -6,7 +6,7 @@ export default defineConfig({
     env: {
       auth0_domain: "https://dev-qmqp0m4ztvtnjw8c.us.auth0.com",
       auth0_client_id: "kRgNoBSSNQl0QGxpmlHlv4xPuhtJqxMZ",
-      auth0_username: "badellinoa@gmail.com", // create a dedicated user 
+      auth0_username: "siceje8523@lewenbo.com",
       auth0_password: "qwert12345!"
     }
   },

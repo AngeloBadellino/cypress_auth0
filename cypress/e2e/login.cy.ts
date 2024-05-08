@@ -12,7 +12,7 @@ describe('Login', () => {
         cy.get('input#username').type(username)
         cy.get('button[data-action-button-primary]').click()
         cy.get('input#password').type(password)
-        cy.get('button[type="submit"]').click()
+        cy.get('button[data-action-button-primary]').click()
       }
     )
   })
